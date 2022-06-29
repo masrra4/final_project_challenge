@@ -1,8 +1,12 @@
 # final_project_challenge
 Repository: final_project_challenge
+
 Type of Challenge: Consolidation
+
 Duration: 2 weeks
+
 Deadline: 30/06/2022 4:30 PM
+
 Presentations: 01/07/2022 1:30 PM
 Teams: Solo 
 Explanation:
